@@ -1,0 +1,6 @@
+configVersion: 1
+project: ekp-cryptozoon
+---
+image: cryptozoon
+dockerfile: Dockerfile
+context: .
