@@ -1,6 +1,6 @@
 {
   "name": "ekp-cryptozoon",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
@@ -13,7 +13,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@earnkeeper/ekp-sdk-nestjs": "^0.4.1",
+    "@earnkeeper/ekp-sdk-nestjs": "^0.4.3",
     "@earnkeeper/ekp-ui": "^0.1.3"
   },
   "devDependencies": {
